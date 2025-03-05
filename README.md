@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Allen. Retired Merchant Marine Electronics Officer, LAN Manager, EKMS Manager, and various other technical postitions.
+Interests:
+  IoT
+  Linux
+  Microcontrollers
+  Arduino Cloud/IoT
+  Technology in General
+  
 
 <!--
 **agbuck/agbuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
